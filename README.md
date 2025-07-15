@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/arpitmohankar/AmDsaLeet/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/arpitmohankar/AmDsaLeet/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/arpitmohankar/AmDsaLeet/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/arpitmohankar/AmDsaLeet/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -27,4 +28,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arpitmohankar/AmDsaLeet/tree/master/0150-evaluate-reverse-polish-notation) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/arpitmohankar/AmDsaLeet/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/arpitmohankar/AmDsaLeet/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/arpitmohankar/AmDsaLeet/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
